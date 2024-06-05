@@ -19,10 +19,10 @@
 
 <h2 align="center">Whoami 🧑🏻‍💻</h3>
 <p align="center">
-  A passionate Software Engineer with over 6 years of experience with an MBA in Software Engineering and a Computer Science degree, consistently applying robust programming practices to achieve top-tier quality in every project.
+  A passionate Software Engineer with approximately 7 years of experience with an MBA in Software Engineering and a Computer Science degree, consistently applying robust programming practices to achieve top-tier quality in every project.
 </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently improving my **ReactJS** skills
 
 - 💬 Ask me about **Ruby, Ruby on Rails, and Rspec**
 
